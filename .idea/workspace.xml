@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b77593c-26d0-4332-8282-02fe324ac0b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/learning_curve.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/blogyourlife/Dockerfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/blogyourlife/app/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/blogyourlife/app/main/__init__.py" afterDir="false" />
@@ -18,24 +12,10 @@
       <change afterPath="$PROJECT_DIR$/blogyourlife/app/main/util/dto.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/blogyourlife/manage.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/blogyourlife/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask-restplus-boilerplatee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask-restplus-boilerplatee/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask-restplus-boilerplatee/app/main/controller/covid_api_controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask-restplus-boilerplatee/app/main/model/covid_model_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask-restplus-boilerplatee/app/main/util/file_paths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask-restplus-boilerplatee/app/main/util/get_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask-restplus-boilerplatee/app/main/util/helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogyourlife/.idea/blogyourlife.iml" beforeDir="false" afterPath="$PROJECT_DIR$/blogyourlife/.idea/blogyourlife.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogyourlife/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/blogyourlife/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogyourlife/flaskblog.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask-restplus-boilerplatee/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask-restplus-boilerplatee/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask-restplus-boilerplatee/app/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask-restplus-boilerplatee/app/main/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask-restplus-boilerplatee/app/main/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask-restplus-boilerplatee/app/main/model/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask-restplus-boilerplatee/app/main/model/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask-restplus-boilerplatee/app/main/util/dto.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask-restplus-boilerplatee/app/main/util/dto.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask-restplus-boilerplatee/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask-restplus-boilerplatee/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask-restplus-boilerplatee/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/flask-restplus-boilerplatee/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,62 +105,7 @@
             <path>
               <item name="learning_curve" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning_curve" type="462c0819:PsiDirectoryNode" />
-              <item name="blogyourlife" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learning_curve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning_curve" type="462c0819:PsiDirectoryNode" />
-              <item name="blogyourlife" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learning_curve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning_curve" type="462c0819:PsiDirectoryNode" />
-              <item name="blogyourlife" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learning_curve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning_curve" type="462c0819:PsiDirectoryNode" />
-              <item name="blogyourlife" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learning_curve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning_curve" type="462c0819:PsiDirectoryNode" />
-              <item name="blogyourlife" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learning_curve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning_curve" type="462c0819:PsiDirectoryNode" />
               <item name="flask-restplus-boilerplatee" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learning_curve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning_curve" type="462c0819:PsiDirectoryNode" />
-              <item name="flask-restplus-boilerplatee" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learning_curve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning_curve" type="462c0819:PsiDirectoryNode" />
-              <item name="flask-restplus-boilerplatee" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learning_curve" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning_curve" type="462c0819:PsiDirectoryNode" />
-              <item name="flask-restplus-boilerplatee" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -221,7 +146,7 @@
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19347706" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19347706" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -234,7 +159,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.47648904" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.47648904" />
       <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
