@@ -1,0 +1,13 @@
+version: '2'
+
+services:
+#  flask-restplus-boilerplate:
+#    build: ./flask-restplus-boilerplatee
+#    ports:
+#      - "5000:5000"
+  blogyourlife:
+    build: ./blogyourlife
+    ports:
+      - "5000:5000"
+#
+
